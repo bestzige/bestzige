@@ -19,8 +19,8 @@
 
 ### 📊 My GitHub Stats ⚡
 
-[![Github Stats](https://github-readme-stats.vercel.app/api?username=bestzige&theme=blueberry&count_private=true&hide_border=true&line_height=20)](https://github.com/bestzige)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bestzige&layout=compact&theme=blueberry&count_private=true&hide_border=true)](https://github.com/bestzige)
+[![Github Stats](https://github-readme-stats.vercel.app/api?username=bestzige&theme=tokyonight&hide_border=true&line_height=20)](https://github.com/bestzige)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bestzige&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/bestzige)
 
 ---
 
