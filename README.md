@@ -17,6 +17,12 @@
 
 ---
 
+### GitHub Stats ⚡
+[![Github Stats](https://github-readme-stats.vercel.app/api?username=bestzige&show_icons=true&theme=transparent)](https://github.com/bestzige)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bestzige&show_icons=true&theme=transparent&layout=compact)](https://github.com/bestzige)
+
+---
+
 ### 💤 🎧
 
 ![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=31qxcuf4j7ql6vrzn7u5xjna2ucy&unique=true&lang=en)
